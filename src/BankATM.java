@@ -14,7 +14,12 @@ public class BankATM {
 
         if (inPut == 1){
 
-        }else {}
+        }else {
+
+            System.out.println("小A更新");
+
+
+        }
 
 
     }
