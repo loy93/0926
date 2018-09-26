@@ -8,6 +8,8 @@ public class BankATM {
 
         System.out.println("欢迎使用中国人民很行ATM系统");
         System.out.println("1.进入  2.退出");
+
+        System.out.println(11111);
         int inPut = scanner.nextInt();
 
         if (inPut == 1){
